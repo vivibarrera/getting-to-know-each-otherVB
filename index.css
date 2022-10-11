@@ -10,7 +10,12 @@ title {
 h2 {
     text-align:center;
 }
-body {
-    background-image: url("Flower-GIF.gif");
-    background-position: right top;
-  }
+h1 p.solid {border-style: solid;
+border-color:cyan;
+}
+h2 p.solid {border-style: solid;
+    border-color:cyan;
+    }
+h3 p.solid {border-style: solid;
+    border-color:cyan;
+    }

@@ -1,10 +1,6 @@
 h1 { color:rgb(255, 255, 255); }
 h2 { color:rgb(255, 255, 255); }
-{
-    background-image: url(Flower-GIF.gif), url(Flower-GIF.gif);
-    background-position: right bottom, left top;
-    background-repeat: no-repeat, repeat;
-  }
+
  h1 { 
     text-align: center;
 }
@@ -14,3 +10,7 @@ title {
 h2 {
     text-align:center;
 }
+body {
+    background-image: url("Flower-GIF.gif");
+    background-position: right top;
+  }

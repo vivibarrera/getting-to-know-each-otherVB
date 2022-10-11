@@ -10,5 +10,7 @@ title {
 h2 {
     text-align: center;
 }
-
+body {
+    background-color: rgb(133, 0, 166);
+  }
 
